@@ -1,0 +1,30 @@
+/* .navbar{
+    width:100%;
+    display:flex;
+    border:2px solid black;
+}
+.navbar-logo{
+    font-weight: 700;
+    font-size:39px;
+    line-height: 46.8px;
+    letter-spacing: 0.005em;
+    color: #f86338;
+    margin: 25px 1194px 21px 94px;
+} */
+
+.navbarlogo{
+    color:#F86338 !important;
+    font-weight: 700 !important;
+font-size: 39px !important ;
+line-height: 120% !important ;
+letter-spacing: 0.005em !important ;
+    
+}
+.navigation{
+    background-color: #F4F7F8 !important;
+
+}
+.navitems
+{
+color:#11142D !important;
+}

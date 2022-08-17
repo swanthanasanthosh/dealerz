@@ -1,0 +1,28 @@
+.topitems{
+    font-weight: 700;
+font-size: 43px;
+line-height: 120%;
+letter-spacing: 0.005em;
+color: #11142D;
+
+}
+.toptext{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 125%;
+text-align: center;
+letter-spacing: 0.005em;
+
+
+align-items: center;
+justify-content: center;
+
+color: #515151;
+
+}
+.topsale{
+    /* max-width:100%; */
+    border: 2px solid black;
+    
+}

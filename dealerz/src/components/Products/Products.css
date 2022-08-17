@@ -1,0 +1,81 @@
+.premium{
+font-weight: 700;
+font-size: 43px;
+line-height: 120%;
+letter-spacing: 0.005em;
+color: #11142D;
+
+}
+.catrgories{
+    /* max-width:100%; */
+    border: 2px solid black;
+    background-color: #F4F7F8;
+}
+.linkitem{
+    color: #9A9AB0 !important;
+    font-weight: 700 !important; 
+font-size: 20px !important;
+line-height: 120% !important;
+letter-spacing: 0.005em !important;
+
+}
+.linkitem:hover{
+    color:#F86338 !important;
+}
+.linkitem:visited{
+    color:#F86338 !important;
+}
+.categoryname{
+    color:#9A9AB0
+}
+.morebutton{
+    
+    background-color: #F86338 !important;
+    border-color: #F86338 !important;
+
+
+}
+.price{
+    color: #F86338;
+
+}
+
+.topitems{
+    font-weight: 700;
+font-size: 43px;
+line-height: 120%;
+letter-spacing: 0.005em;
+color: #11142D;
+
+}
+.toptext{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 125%;
+text-align: center;
+letter-spacing: 0.005em;
+
+
+align-items: center;
+justify-content: center;
+
+color: #515151;
+
+}
+.topsale{
+    /* max-width:100%; */
+    border: 2px solid black;
+    
+}
+.slick-slide{
+    width: 400px !important;
+}
+
+.about{
+    background-color: #F4F7F8;
+}
+.aboutlink{
+    color:#F86338;
+    text-decoration: none;
+}
